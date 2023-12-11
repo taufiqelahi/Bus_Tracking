@@ -52,5 +52,6 @@ Google cloud added and data directly came from cloud firestore .using ploylone m
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/taufiqelahi/bus-tracking-app.git
+   git clone https://github.com/taufiqelahi/Bus_Tracking.git
+   git clone https://github.com/taufiqelahi/Bus_Tracking.git
 
