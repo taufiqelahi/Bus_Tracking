@@ -1,6 +1,6 @@
 ## Bus Tracking application
 
-[![Flutter](https://img.shields.io/badge/Flutter-2.19.6-blue.svg)](https://flutter.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-3.0.1-blue.svg)](https://flutter.dev/)
 [![Google Maps](https://img.shields.io/badge/Google%20Maps-2.2.8-green.svg)](https://pub.dev/packages/google_maps_flutter)
 [![Firebase](https://img.shields.io/badge/Firebase_core-2.13.0-blue.svg)](https://pub.dev/packages/firebase_core)
 
