@@ -1,5 +1,5 @@
 ## Bus Tracking application
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Flutter](https://img.shields.io/badge/Flutter-2.8.0-blue.svg)](https://flutter.dev/)
 [![Google Maps](https://img.shields.io/badge/Google%20Maps-5.0.1-green.svg)](https://pub.dev/packages/google_maps_flutter)
 
