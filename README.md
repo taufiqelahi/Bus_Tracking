@@ -22,7 +22,8 @@
    ```bash
    git clone https://github.com/taufiqelahi/Bus_Tracking.git
    git clone git@github.com:taufiqelahi/Bus_Tracking.git
-Output:<br>
+##Output <br>
+
 Welcome page created with beautiful animation  images
                                       
 <br>
