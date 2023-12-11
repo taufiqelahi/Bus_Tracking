@@ -17,13 +17,7 @@ This Flutter application enables bus tracking using Google Maps. It provides rea
 - [Flutter](https://flutter.dev/docs/get-started/install)
 - [Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/taufiqelahi/Bus_Tracking.git
-   git clone git@github.com:taufiqelahi/Bus_Tracking.git
 ## Output <br>
 
 Welcome page created with beautiful animation  images
@@ -59,10 +53,6 @@ Google cloud added and data directly came from cloud firestore .using ploylone m
         
   <br>
 
-### Prerequisites
-
-- [Flutter](https://flutter.dev/docs/get-started/install)
-- [Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
 ### Installation
 
