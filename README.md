@@ -10,6 +10,20 @@
 -Firebase cloud firestore<br>
 Output:<br>
 Welcome page created with beautiful animation  images
+
+
+### Prerequisites
+
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/taufiqelahi/Bus_Tracking.git
+   git clone git@github.com:taufiqelahi/Bus_Tracking.git
                                       
 <br>
 <img width="299" alt="Screenshot 2023-09-20 at 7 24 57 PM" src="https://github.com/taufiqelahi/Bus_Tracking/assets/91239229/449dc525-a34c-4bbf-9be8-193b817f4613">
