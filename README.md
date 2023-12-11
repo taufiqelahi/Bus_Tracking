@@ -42,5 +42,15 @@ Google cloud added and data directly came from cloud firestore .using ploylone m
         
   <br>
 
+### Prerequisites
 
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/taufiqelahi/bus-tracking-app.git
 
