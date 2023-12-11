@@ -53,5 +53,5 @@ Google cloud added and data directly came from cloud firestore .using ploylone m
 
    ```bash
    git clone https://github.com/taufiqelahi/Bus_Tracking.git
-   git clone https://github.com/taufiqelahi/Bus_Tracking.git
+   git clone git@github.com:taufiqelahi/Bus_Tracking.git
 
