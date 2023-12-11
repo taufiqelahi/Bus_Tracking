@@ -6,10 +6,10 @@
 ## Overview
 
 This Flutter application enables bus tracking using Google Maps. It provides real-time updates on the location of buses on the map, helping users to track the buses efficiently.
--Using google map<br>
--Using google cloud services<br>
--Firebase authentication<br>
--Firebase cloud firestore<br>
+- Using google map<br>
+- Using google cloud services<br>
+- Firebase authentication<br>
+- Firebase cloud firestore<br>
 
 
 ### Prerequisites
